@@ -1,0 +1,5 @@
+# Add your ignore patterns here
+*.pyc
+__pycache__
+
+git-workflow.ipynb
